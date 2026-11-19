@@ -1,6 +1,5 @@
 # AI Training Week 1
-
-This repository contains Python data visualization tasks.
+This repository contains Python data analysis and visualization tasks.
 
 ## Charts
 - Bar Chart
